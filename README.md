@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Nicholas
 - 👀 I’m interested in Mobile App Development, both native Android and iOS development. Also interested in UI/UX Designing.
-- 🌱 I’m currently learning Swift to create an iOS apps and Web Scraping using Python (BeautifulSoup).
-- 💞️ Currently not looking to collaborate on any open project as I'm having my intern.
+- 🌱 I’m currently learning Swift to create an iOS apps
 - 📫 Reach me on my email: nkwxn05@gmail.com / DM me on Discord (nkwxn#9379)
