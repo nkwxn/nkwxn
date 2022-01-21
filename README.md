@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Nicholas
 - 👀 I’m interested in Mobile App Development, especially in iOS development. Also interested in UI/UX Designing.
+- 👨🏻‍💻 Experienced working in 5 iOS Apps on Apple Developer Academy.
 - 📫 Reach me on my email: nicholas.05apr@gmail.com / DM me on Discord (nkwxn#9379)
